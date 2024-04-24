@@ -1,0 +1,8 @@
+edu/ftn/iis/soas/domain/model/Channel.class
+edu/ftn/iis/soas/domain/repository/NotificationRequestRepository.class
+edu/ftn/iis/soas/domain/model/Notification.class
+edu/ftn/iis/soas/domain/model/Template.class
+edu/ftn/iis/soas/domain/model/NotificationRequest.class
+edu/ftn/iis/soas/domain/model/NotificationResponse.class
+edu/ftn/iis/soas/domain/model/Parameter.class
+edu/ftn/iis/soas/domain/NtfDomainApplication.class

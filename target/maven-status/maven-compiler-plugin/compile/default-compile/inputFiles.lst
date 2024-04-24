@@ -1,0 +1,8 @@
+/home/djordje/git/nastava/soas2024/ntf-domain/src/main/java/edu/ftn/iis/soas/domain/repository/NotificationRequestRepository.java
+/home/djordje/git/nastava/soas2024/ntf-domain/src/main/java/edu/ftn/iis/soas/domain/NtfDomainApplication.java
+/home/djordje/git/nastava/soas2024/ntf-domain/src/main/java/edu/ftn/iis/soas/domain/model/Parameter.java
+/home/djordje/git/nastava/soas2024/ntf-domain/src/main/java/edu/ftn/iis/soas/domain/model/NotificationRequest.java
+/home/djordje/git/nastava/soas2024/ntf-domain/src/main/java/edu/ftn/iis/soas/domain/model/Channel.java
+/home/djordje/git/nastava/soas2024/ntf-domain/src/main/java/edu/ftn/iis/soas/domain/model/Notification.java
+/home/djordje/git/nastava/soas2024/ntf-domain/src/main/java/edu/ftn/iis/soas/domain/model/Template.java
+/home/djordje/git/nastava/soas2024/ntf-domain/src/main/java/edu/ftn/iis/soas/domain/model/NotificationResponse.java
